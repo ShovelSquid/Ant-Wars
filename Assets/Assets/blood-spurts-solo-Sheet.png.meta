@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 1798ed49ae2f2804799f246d28967f34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7643614140147225553
+    second: blood-spurts-solo-Sheet_0
+  - first:
+      213: -3367572110946018074
+    second: blood-spurts-solo-Sheet_1
+  - first:
+      213: -5712333964044508180
+    second: blood-spurts-solo-Sheet_2
+  - first:
+      213: -5515394316213928043
+    second: blood-spurts-solo-Sheet_3
+  - first:
+      213: -3829512680035036636
+    second: blood-spurts-solo-Sheet_4
+  - first:
+      213: 6300250491485047521
+    second: blood-spurts-solo-Sheet_5
+  - first:
+      213: -9137943857256535017
+    second: blood-spurts-solo-Sheet_6
+  - first:
+      213: -4423232912217087950
+    second: blood-spurts-solo-Sheet_7
+  - first:
+      213: -7048331553421757131
+    second: blood-spurts-solo-Sheet_8
+  - first:
+      213: -3421988792615428335
+    second: blood-spurts-solo-Sheet_9
+  - first:
+      213: 3153935326511591059
+    second: blood-spurts-solo-Sheet_10
+  - first:
+      213: 3740352903230799495
+    second: blood-spurts-solo-Sheet_11
+  - first:
+      213: 2958637018683900276
+    second: blood-spurts-solo-Sheet_12
+  - first:
+      213: -3828849835626752927
+    second: blood-spurts-solo-Sheet_13
+  - first:
+      213: -529690778697826886
+    second: blood-spurts-solo-Sheet_14
+  - first:
+      213: -6131951978061933937
+    second: blood-spurts-solo-Sheet_15
+  - first:
+      213: -8580255316268855939
+    second: blood-spurts-solo-Sheet_16
+  - first:
+      213: -1683279170402224458
+    second: blood-spurts-solo-Sheet_17
+  - first:
+      213: 4141175888550389903
+    second: blood-spurts-solo-Sheet_18
+  - first:
+      213: -2309861593830559196
+    second: blood-spurts-solo-Sheet_19
+  - first:
+      213: 5778804320912649078
+    second: blood-spurts-solo-Sheet_20
+  - first:
+      213: 2447631518356045670
+    second: blood-spurts-solo-Sheet_21
+  - first:
+      213: 4374490017685160064
+    second: blood-spurts-solo-Sheet_22
+  - first:
+      213: -2427987064652280799
+    second: blood-spurts-solo-Sheet_23
+  - first:
+      213: -3065470307751479059
+    second: blood-spurts-solo-Sheet_24
+  - first:
+      213: -8430948302650897879
+    second: blood-spurts-solo-Sheet_25
+  - first:
+      213: 2653815733404617950
+    second: blood-spurts-solo-Sheet_26
+  - first:
+      213: 1810402381550653893
+    second: blood-spurts-solo-Sheet_27
+  - first:
+      213: 6092392534665791205
+    second: blood-spurts-solo-Sheet_28
+  - first:
+      213: 6580083205342720558
+    second: blood-spurts-solo-Sheet_29
+  - first:
+      213: -8533286282619179541
+    second: blood-spurts-solo-Sheet_30
+  - first:
+      213: -5670667528599366839
+    second: blood-spurts-solo-Sheet_31
+  - first:
+      213: 8013208735358589687
+    second: blood-spurts-solo-Sheet_32
+  - first:
+      213: 7661299981796265897
+    second: blood-spurts-solo-Sheet_33
+  - first:
+      213: -88392648237760700
+    second: blood-spurts-solo-Sheet_34
+  - first:
+      213: -2750520970077780222
+    second: blood-spurts-solo-Sheet_35
+  - first:
+      213: -4940751190104752041
+    second: blood-spurts-solo-Sheet_36
+  - first:
+      213: 2019247778143896622
+    second: blood-spurts-solo-Sheet_37
+  - first:
+      213: -112650560372874517
+    second: blood-spurts-solo-Sheet_38
+  - first:
+      213: 1629296984763590228
+    second: blood-spurts-solo-Sheet_39
+  - first:
+      213: -6357056348120072479
+    second: blood-spurts-solo-Sheet_40
+  - first:
+      213: 5890043385084734658
+    second: blood-spurts-solo-Sheet_41
+  - first:
+      213: -2161373051777394255
+    second: blood-spurts-solo-Sheet_42
+  - first:
+      213: 5710743011684718874
+    second: blood-spurts-solo-Sheet_43
+  - first:
+      213: -2670503427542994049
+    second: blood-spurts-solo-Sheet_44
+  - first:
+      213: 6199680031325369469
+    second: blood-spurts-solo-Sheet_45
+  - first:
+      213: -803073388728604117
+    second: blood-spurts-solo-Sheet_46
+  - first:
+      213: 7106282683924011813
+    second: blood-spurts-solo-Sheet_47
+  - first:
+      213: 8223186242266241988
+    second: blood-spurts-solo-Sheet_48
+  - first:
+      213: -1049885349065326748
+    second: blood-spurts-solo-Sheet_49
+  - first:
+      213: 6852641723233469173
+    second: blood-spurts-solo-Sheet_50
+  - first:
+      213: -726658254579210829
+    second: blood-spurts-solo-Sheet_51
+  - first:
+      213: -6749958835659317030
+    second: blood-spurts-solo-Sheet_52
+  - first:
+      213: 6354927268882391155
+    second: blood-spurts-solo-Sheet_53
+  - first:
+      213: 5622831862223070878
+    second: blood-spurts-solo-Sheet_54
+  - first:
+      213: 4542852290831094306
+    second: blood-spurts-solo-Sheet_55
+  - first:
+      213: -2995935789041342597
+    second: blood-spurts-solo-Sheet_56
+  - first:
+      213: -221903668779414437
+    second: blood-spurts-solo-Sheet_57
+  - first:
+      213: 6378952877038429645
+    second: blood-spurts-solo-Sheet_58
+  - first:
+      213: -20177775507979947
+    second: blood-spurts-solo-Sheet_59
+  - first:
+      213: 5570318269986197859
+    second: blood-spurts-solo-Sheet_60
+  - first:
+      213: -262644996579829664
+    second: blood-spurts-solo-Sheet_61
+  - first:
+      213: 4975342834406236383
+    second: blood-spurts-solo-Sheet_62
+  - first:
+      213: 4283194408355010425
+    second: blood-spurts-solo-Sheet_63
+  - first:
+      213: 7219095020999160752
+    second: blood-spurts-solo-Sheet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3d0a71092931a60800000000000000
+      internalID: 7643614140147225553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecdc8bd10bf341d0800000000000000
+      internalID: -3367572110946018074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce36ab26686b9b0b0800000000000000
+      internalID: -5712333964044508180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f3cd957126573b0800000000000000
+      internalID: -5515394316213928043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42258a3d186dadac0800000000000000
+      internalID: -3829512680035036636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea42fc117cfe6750800000000000000
+      internalID: 6300250491485047521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce2ca0a708f2180800000000000000
+      internalID: -9137943857256535017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-solo-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230eb740a158d92c0800000000000000
+      internalID: -4423232912217087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b0b558450b6502c46bdcfc788b09caf7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      blood-spurts-solo-Sheet_0: 7643614140147225553
+      blood-spurts-solo-Sheet_1: -3367572110946018074
+      blood-spurts-solo-Sheet_2: -5712333964044508180
+      blood-spurts-solo-Sheet_3: -5515394316213928043
+      blood-spurts-solo-Sheet_4: -3829512680035036636
+      blood-spurts-solo-Sheet_5: 6300250491485047521
+      blood-spurts-solo-Sheet_6: -9137943857256535017
+      blood-spurts-solo-Sheet_7: -4423232912217087950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

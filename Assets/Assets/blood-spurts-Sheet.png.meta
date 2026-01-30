@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: ee1f7dff5354ef34b97a7a62ad7b4761
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 403970854181094391
+    second: blood-spurts-Sheet_0
+  - first:
+      213: -8346931585492343093
+    second: blood-spurts-Sheet_1
+  - first:
+      213: 2577688694776924522
+    second: blood-spurts-Sheet_2
+  - first:
+      213: 2143962391466520576
+    second: blood-spurts-Sheet_3
+  - first:
+      213: -3875708838532513491
+    second: blood-spurts-Sheet_4
+  - first:
+      213: -5047387751563723178
+    second: blood-spurts-Sheet_5
+  - first:
+      213: -6954918553232046274
+    second: blood-spurts-Sheet_6
+  - first:
+      213: -8270993845552449985
+    second: blood-spurts-Sheet_7
+  - first:
+      213: -8526551307586792898
+    second: blood-spurts-Sheet_8
+  - first:
+      213: -2987020027748522391
+    second: blood-spurts-Sheet_9
+  - first:
+      213: 7763749698154348157
+    second: blood-spurts-Sheet_10
+  - first:
+      213: 3641981115233871666
+    second: blood-spurts-Sheet_11
+  - first:
+      213: -2383362779285678849
+    second: blood-spurts-Sheet_12
+  - first:
+      213: -8452219086408486022
+    second: blood-spurts-Sheet_13
+  - first:
+      213: -1399292292546338830
+    second: blood-spurts-Sheet_14
+  - first:
+      213: 8875398305527369623
+    second: blood-spurts-Sheet_15
+  - first:
+      213: -4005174434929571579
+    second: blood-spurts-Sheet_16
+  - first:
+      213: -5284470400845346410
+    second: blood-spurts-Sheet_17
+  - first:
+      213: -7229939264369987205
+    second: blood-spurts-Sheet_18
+  - first:
+      213: -5059230402121457135
+    second: blood-spurts-Sheet_19
+  - first:
+      213: -8179737602928342777
+    second: blood-spurts-Sheet_20
+  - first:
+      213: 2299479540406981341
+    second: blood-spurts-Sheet_21
+  - first:
+      213: 1674686387067958547
+    second: blood-spurts-Sheet_22
+  - first:
+      213: 3458506049830915373
+    second: blood-spurts-Sheet_23
+  - first:
+      213: 298094317827910625
+    second: blood-spurts-Sheet_24
+  - first:
+      213: -2961810869034016614
+    second: blood-spurts-Sheet_25
+  - first:
+      213: -7084978439370820439
+    second: blood-spurts-Sheet_26
+  - first:
+      213: -920942200752974064
+    second: blood-spurts-Sheet_27
+  - first:
+      213: -1986472288741321524
+    second: blood-spurts-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3431ff9513b9500800000000000000
+      internalID: 403970854181094391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ad3a62fdb92c80800000000000000
+      internalID: -8346931585492343093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6908b1f53ac5c320800000000000000
+      internalID: 2577688694776924522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000b8239f62e0cd10800000000000000
+      internalID: 2143962391466520576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d218d628857b63ac0800000000000000
+      internalID: -3875708838532513491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ef268059314f9b0800000000000000
+      internalID: -5047387751563723178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3784d0bc6a2b7f90800000000000000
+      internalID: -6954918553232046274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood-spurts-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3677684be6873d80800000000000000
+      internalID: -8270993845552449985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3876781f529cc3845ad6b2ddfb3d546c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      blood-spurts-Sheet_0: 403970854181094391
+      blood-spurts-Sheet_1: -8346931585492343093
+      blood-spurts-Sheet_2: 2577688694776924522
+      blood-spurts-Sheet_3: 2143962391466520576
+      blood-spurts-Sheet_4: -3875708838532513491
+      blood-spurts-Sheet_5: -5047387751563723178
+      blood-spurts-Sheet_6: -6954918553232046274
+      blood-spurts-Sheet_7: -8270993845552449985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
